@@ -1,0 +1,35 @@
+.header {
+	background: #333333;
+	color: #CCCCCC;
+}
+
+.sub-header {
+	background: #CCCCCC;
+	color: black;
+	border-bottom: solid .1em;
+}
+
+.footer {
+	background: #333333;
+	color: #CCCCCC;
+}
+
+.btn {
+	width: 100%;
+	margin: .5em;
+	margin-top: 3.1em;
+}
+
+.body {
+	padding: 1.5em;
+}
+
+
+.blackBackground {
+	background-color: black;
+	color: white;
+}
+
+
+
+
